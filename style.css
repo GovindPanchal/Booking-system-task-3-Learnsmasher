@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+body {
+  background-color:  gold;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 1px;
+}
+
+label {
+  display: block;
+  margin-bottom: 15px;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="time"],
+button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+}
+
+button {
+  background-color: black;
+  color:white;
+  border: none;
+  cursor: pointer;
+}
+
+#bookings {
+  border: 1px solid blue;
+  padding: 10px;
+}
